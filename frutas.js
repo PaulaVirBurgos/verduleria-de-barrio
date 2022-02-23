@@ -1,3 +1,4 @@
-const frutas = ["tomate", "manzana", "mandarina", "banana"]
-const nombre = "José"
-//estas frutas no me gustan
+const frutas = ['tomate', 'manzana', 'mandarina', 'banana'];
+
+const nombreA = 'Paula';
+const nombreB = 'José';
