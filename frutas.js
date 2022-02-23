@@ -1,3 +1,3 @@
-const frutas = [tomate, manzana, mandarina, banana]
+const frutas = ["tomate", "manzana", "mandarina", "banana"]
 
 //estas frutas no me gustan
